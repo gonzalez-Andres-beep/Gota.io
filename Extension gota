@@ -6,6 +6,7 @@
 // @match        *://gota.io/web*
 // @author       Mr LoKo1 YT
 // @grant        none
+// @require      https://raw.githubusercontent.com/gonzalez-Andres-beep/Gota./main/Gota.io%20Extension%20p2
 // @run-at       document-end
 // ==/UserScript==
 
