@@ -9,7 +9,6 @@
 // @grant        document.getElementById
 // @grant        GM_xmlhttpRequest
 // @require      https://code.jquery.com/jquery-3.5.0.js
-// @run-at       document-end
 // ==/UserScript==
 
             let version = `2`
